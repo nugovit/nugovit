@@ -1,5 +1,14 @@
-### Hi there 👋
+### Oi! Meu nome é Rafael 
+- ✨ Linguagens que sei: Python
+- 💻 Atualmente estudando: Python
+- 😉 Desejo aprender __cada vez mais__!
+- 📫 Twitter: [@nugovit](https://twitter.com/nugovit)
 
+<div>
+  <a href="https://gituhb.com/nugovit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nugovit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugovit&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!--
 **nugovit/nugovit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
