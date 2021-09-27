@@ -2,7 +2,6 @@
 - ✨ Linguagens que sei: Python
 - 💻 Atualmente estudando: Python
 - 😉 Desejo aprender __cada vez mais__!
-- 📫 Twitter: [@nugovit](https://twitter.com/nugovit)
 
 <div>
   <a href="https://gituhb.com/nugovit">
