@@ -1,5 +1,5 @@
 ### Oi! Meu nome é Rafael 
-- ✨ Linguagens que sei: Python
+- ✨ Linguagens que sei: Python, Ruby
 - 💻 Atualmente estudando: Python
 - 😉 Desejo aprender __cada vez mais__!
 
